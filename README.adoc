@@ -2,3 +2,4 @@
 - ♉ Been programming since 1992 mainly in C, C++, Java, (a little) C#, serverside JavaScript and Python.
 - 🌱 Currently learning Go.
 - 💞️ I’m looking to collaborate on any open source project where I can provide help.
+- 🌟 Claim to fame: I contributed a bug fix to the Git source code.
