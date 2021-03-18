@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fenegroni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fenegroni/fenegroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Filippo Erik Negroni aka @fenegroni
+- 👀 I’m interested in programming languages for embedded systems and system level programming, mainly C, Go and Arduino.
+- 🌱 I’m currently learning Go.
+- 💞️ I’m looking to collaborate on any open source project where I can provide help.
