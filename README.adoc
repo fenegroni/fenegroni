@@ -1,5 +1,5 @@
 - 👀 A keen interest in programming languages for embedded systems and system level tools (people call it DevOps these days 😉), mainly C, Go and Arduino.
-- ♉ Been programming since 1990 mainly in C, C++, Java, (a little) C#, serverside JavaScript and Python.
+- ♉ Been programming since 1990 (aged 12) mainly in C, C++, Java, (a little) C#, serverside JavaScript and Python.
 - 🌱 Currently learning Go.
 - 💞️ I’m looking to collaborate on any open source project where I can provide help.
 - 🌟 Claim to fame: I contributed a bug fix to the Git source code.
