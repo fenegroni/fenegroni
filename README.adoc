@@ -1,4 +1,4 @@
-👀 A keen interest in programming languages for embedded systems and system level tools (people call it DevOps these days 😉), mainly C, Go and Arduino.
+👀 Interest in programming languages for embedded systems and system level tools, mainly C, Go and Arduino.
 
 ♉ Been programming since 1990 (aged 12) mainly in C, C++, Java, (a little) C#, serverside JavaScript and Python on both Linux and Windows.
 
